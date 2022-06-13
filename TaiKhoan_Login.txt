@@ -1,0 +1,7 @@
+Admin (quản lý)
+user_name: admin
+pass_word: admin123
+
+Nhân viên:
+user_name: nhanvien
+pass_word: nv123
